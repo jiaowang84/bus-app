@@ -1,4 +1,4 @@
-Bus App
+# Bus App
 This is a project to provide bus timings at a particular bus stop in Singapore
 
 Features
@@ -10,6 +10,7 @@ Features
 6. A progressive web app (manifest.json)
 7. A responsive web app that can be browsed in any screen sizes (web and mobile screens)
 
+This is deployed at https://glitch.com/~bus-app-sg
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
