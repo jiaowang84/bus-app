@@ -2,7 +2,7 @@
 This is a project to provide bus timings at a particular bus stop in Singapore
 
 Features
-1. Retrieve all bus stops ID (see postman) & cache
+1. Retrieve all bus stops ID & cache
 2. Allow typeahead for the bus stop name to be shown in the dropdown
 3. Display last update time
 4. Allows saving bus stop as favorite
