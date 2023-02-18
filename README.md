@@ -12,6 +12,8 @@ Features
 
 This is deployed at https://glitch.com/~bus-app-sg
 
+![bus-app screenshot](https://user-images.githubusercontent.com/28668724/219826417-7573ec98-354e-49d8-add1-954b709ae241.JPG)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
