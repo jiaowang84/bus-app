@@ -1,15 +1,14 @@
-## TODO
-1. refresh button
-2. change HTML title
-3. add span badge for bus number
-4. add banner/ navbar 
-5. add favicon
-6. retrieve all bus stops ID (see postman) & cache
-7. add bus stop name in dropdown/ change to typeahead
-8. Add last update time
-9. Add save bus stop as favorite
-10. Add auto refresh (every 10s)
-11. progressive web app (manifest.json)
+Bus App
+This is a project to provide bus timings at a particular bus stop in Singapore
+
+Features
+1. Retrieve all bus stops ID (see postman) & cache
+2. Allow typeahead for the bus stop name to be shown in the dropdown
+3. Display last update time
+4. Allows saving bus stop as favorite
+5. Allows auto refresh (every 10s)
+6. A progressive web app (manifest.json)
+7. A responsive web app that can be browsed in any screen sizes (web and mobile screens)
 
 
 
